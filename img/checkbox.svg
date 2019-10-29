@@ -1,0 +1,15 @@
+<svg id="checkbox_empty" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Path_31" data-name="Path 31" class="cls-1" d="M19,5V19H5V5H19m0-2H5A2.006,2.006,0,0,0,3,5V19a2.006,2.006,0,0,0,2,2H19a2.006,2.006,0,0,0,2-2V5A2.006,2.006,0,0,0,19,3Z"/>
+  <path id="Path_32" data-name="Path 32" class="cls-2" d="M0,0H24V24H0Z"/>
+</svg>

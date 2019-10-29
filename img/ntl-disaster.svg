@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.564" height="30.564" viewBox="0 0 30.564 30.564">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #6c6c6c;
+      }
+    </style>
+  </defs>
+  <g id="mountain" transform="translate(-0.001 0)">
+    <path id="Path_9" data-name="Path 9" class="cls-1" d="M0,0H30.564V30.564H0Z"/>
+    <path id="Path_10" data-name="Path 10" class="cls-2" d="M17.555,6,12.78,12.367l3.629,4.839-2.038,1.528c-2.152-2.865-5.731-7.641-5.731-7.641L1,21.282H29.017Z" transform="translate(0.273 1.641)"/>
+  </g>
+</svg>

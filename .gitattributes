@@ -1,0 +1,12 @@
+*	text=auto
+
+*.py	text
+*.elm	text
+*.css	text
+*.html	text
+*.js	text
+
+*.png	binary
+*.jpg	binary
+*.mp4	binary
+*.dat	binary

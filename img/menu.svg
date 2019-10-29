@@ -1,0 +1,15 @@
+<svg id="MENU_PHONE" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <path id="Path_227" data-name="Path 227" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_228" data-name="Path 228" class="cls-2" d="M2,20H22V16H2ZM2,4V8H22V4ZM2,14H22V10H2Z"/>
+</svg>
