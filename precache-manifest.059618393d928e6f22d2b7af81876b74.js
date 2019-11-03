@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31f1d226add255887a6ae8e9941b9030",
+    "revision": "a4623906b360185704993d867c05c3ac",
     "url": "/capews-build/controlSidebar.html"
   },
   {
-    "revision": "06c7af1d3d41bd4c974c372d2e970059",
+    "revision": "736fb9e2abfc5ccdc5a60cacb3f1cc98",
     "url": "/capews-build/css/AdminLTE.min.css"
   },
   {
-    "revision": "e4144b27ffe4358234ea86d48c68b3af",
+    "revision": "7f89537eaf606bff49f5cc1a7c24dbca",
     "url": "/capews-build/css/bootstrap.min.css"
   },
   {
-    "revision": "536e9c3b0bb8335c31f4d40ae6e65fc9",
+    "revision": "ca935888d15c35cd3b1051259e242603",
     "url": "/capews-build/css/layout.min.css"
   },
   {
@@ -24,55 +24,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/favicon.ico"
   },
   {
-    "revision": "d0e585cf655c8625879929c223cae20c",
+    "revision": "144ebca65eb2e0dc7999c0b7ec1a7482",
     "url": "/capews-build/header.html"
   },
   {
-    "revision": "4f3eace3cfffb6722e5c6fe85617e46c",
+    "revision": "32952eac175b68efa238b156e7756222",
     "url": "/capews-build/img/account.svg"
   },
   {
-    "revision": "e876f8fc8523a7ec6093075c38f06355",
+    "revision": "ea870b288bf19545d0965f0c721d5101",
     "url": "/capews-build/img/alert.svg"
   },
   {
-    "revision": "da8b7f175ba880bc83910271fc98f3be",
+    "revision": "ad656a3aea1eb93926bf98a9964aeb50",
     "url": "/capews-build/img/arrow-down.svg"
   },
   {
-    "revision": "410d1f379461ec340984b12bbdcdde2c",
+    "revision": "0fa19c33a54bf0505083a649b418f326",
     "url": "/capews-build/img/bulletin.svg"
   },
   {
-    "revision": "61be77da7709ec9f5f58c3d0070d6a13",
+    "revision": "63e5e53784465290da92495141330285",
     "url": "/capews-build/img/chart-o.svg"
   },
   {
-    "revision": "6b8e788215b596b64dd2f31bde953716",
+    "revision": "5f6a1900e8f1df130b9b59027a0492ad",
     "url": "/capews-build/img/chart.svg"
   },
   {
-    "revision": "c0f97994223ef9d60fd5dada6ac24fb0",
+    "revision": "8c8c449094e3e00866802d0720a1cdc5",
     "url": "/capews-build/img/checkbox-check.svg"
   },
   {
-    "revision": "39aaafcc26fdeca282191ee37b8ba92b",
+    "revision": "268148e50fb951496abccbea5514f7ec",
     "url": "/capews-build/img/checkbox.svg"
   },
   {
-    "revision": "f322a011ea267ba521a4252f35f9ee6a",
+    "revision": "b824e3b73fcd9ecd06b53fd07607d431",
     "url": "/capews-build/img/close.svg"
   },
   {
-    "revision": "0b909cb03fff7e8c3397812276946654",
+    "revision": "ad64bb33c63e7ebd92a97a942f5c7bac",
     "url": "/capews-build/img/eartchquake.svg"
   },
   {
-    "revision": "08bdedefd87f154cf47b2803dcfe1004",
+    "revision": "99936afe9f1cf66ce75eda89cf903987",
     "url": "/capews-build/img/fire.svg"
   },
   {
-    "revision": "c5693c14cd4886403427493868ae13a1",
+    "revision": "a728e265b536d012386da6842c6e5440",
     "url": "/capews-build/img/flood.svg"
   },
   {
@@ -80,15 +80,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/img/header-logo.png"
   },
   {
-    "revision": "213d00a7e4280af9a3cbe704c1f4571a",
+    "revision": "bad5ed9c0a485f8e9970b715f31d4ab2",
     "url": "/capews-build/img/home-w.svg"
   },
   {
-    "revision": "7d09840267c12fcd43d12909458b457f",
+    "revision": "5062bcf1d7087a849f5881b42106fb44",
     "url": "/capews-build/img/home.svg"
   },
   {
-    "revision": "69125f69c1e15a63a95488c8f349d783",
+    "revision": "a2bf5519b5f3d46578a6db6f726f1451",
     "url": "/capews-build/img/logo-house.svg"
   },
   {
@@ -100,51 +100,51 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/img/logo-pc.png"
   },
   {
-    "revision": "2c2c6535ac99053a0d93c0bcfe33ffb3",
+    "revision": "dfdf4e54bfe4b0a150ebc84277a4f1c8",
     "url": "/capews-build/img/logo-sm.svg"
   },
   {
-    "revision": "2874087dadd0ee6b4424d3d62703dfa2",
+    "revision": "47045c96171cbeb90cdc378838bc5b63",
     "url": "/capews-build/img/logo.svg"
   },
   {
-    "revision": "d55228842c7ed1524a21c5594ae4c3fd",
+    "revision": "3c8e07f64b7dbdf71429de992aaae01a",
     "url": "/capews-build/img/man-disaster.svg"
   },
   {
-    "revision": "48260d2d74dade51a0daa74854ee7d7d",
+    "revision": "15aa24c4ece2548458e9392c27e8605b",
     "url": "/capews-build/img/marker.svg"
   },
   {
-    "revision": "3f30995354ea71f08501992af6354852",
+    "revision": "71b4c7ada7ce6e627f017e93426b5976",
     "url": "/capews-build/img/menu-white.svg"
   },
   {
-    "revision": "8c19385a7e13403a8e2e31793122ce00",
+    "revision": "9a17d51680b7ce3bb464a241f758679e",
     "url": "/capews-build/img/menu.svg"
   },
   {
-    "revision": "90ccd8cc1d15fd70f35d67e50c3ea709",
+    "revision": "89d6d9d17fc070e7f435ea2b1b8d2ed5",
     "url": "/capews-build/img/ntl-disaster.svg"
   },
   {
-    "revision": "49ed4606a58798ee820577c55b55ecaf",
+    "revision": "8e737264f5d146e38450862336c881e5",
     "url": "/capews-build/img/other.svg"
   },
   {
-    "revision": "53316a9169757d9d77d2d629cabc7038",
+    "revision": "7c3006346ca7e443f513e750224ab8e4",
     "url": "/capews-build/img/search-g.svg"
   },
   {
-    "revision": "5244b3cb984389df92bc3e10f303ced5",
+    "revision": "c55628d7c0d4491186e88099f49d3e26",
     "url": "/capews-build/img/search-w.svg"
   },
   {
-    "revision": "7a32bdb0d542b51aa8db27652f820f81",
+    "revision": "128071d8af4cb7a1d54101f38f157a38",
     "url": "/capews-build/img/search.svg"
   },
   {
-    "revision": "b8e330642dd9582704f5ae78fc4d387b",
+    "revision": "9eed10faf5a5d80f90adfdef0db551e2",
     "url": "/capews-build/img/setting.svg"
   },
   {
@@ -152,7 +152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/img/temple.png"
   },
   {
-    "revision": "bdc73122141534069709227b159054c2",
+    "revision": "cd4f5a1e671c9ecf6a822735f8e24572",
     "url": "/capews-build/img/user-setting.svg"
   },
   {
@@ -160,15 +160,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/img/user.png"
   },
   {
-    "revision": "906dbd5e07431dc00eb2343a59480843",
+    "revision": "397b7996b5611fbe21858017247f5fe2",
     "url": "/capews-build/img/user.svg"
   },
   {
-    "revision": "1b42ab6bb47ba39ece3b494c4947b86e",
+    "revision": "f29250d5d79181b79a1f05c6a7cc46d5",
     "url": "/capews-build/img/wind.svg"
   },
   {
-    "revision": "d01e11be601550fc4cc3ac403a4980c5",
+    "revision": "fd2fc688b072d6691ac67125c21194f6",
     "url": "/capews-build/index.html"
   },
   {
@@ -176,23 +176,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/index.html~"
   },
   {
-    "revision": "49d697585ab779a20aaba7106714f330",
+    "revision": "6ea2ec802aebcc31e7d0ecf536f815a6",
     "url": "/capews-build/js/adminlte.min.js"
   },
   {
-    "revision": "105a4995b8777aeaf68bff64bf7d2ae0",
+    "revision": "2f34b630ffe30ba2ff2b91e3f3c322a1",
     "url": "/capews-build/js/bootstrap.min.js"
   },
   {
-    "revision": "f1a644c9d5465976be974416a27bb27d",
+    "revision": "eb4219654a47b4e1d11dc50c578f5818",
     "url": "/capews-build/js/common.js"
   },
   {
-    "revision": "a6b6350ee94a3ea74595c065cbf58af0",
+    "revision": "220afd743d9e9643852e31a135a9f3ae",
     "url": "/capews-build/js/jquery.min.js"
   },
   {
-    "revision": "16f5499b6fa36682ff8b093d695591f1",
+    "revision": "762a6b64eba28bd621f2fc8aba9168d6",
     "url": "/capews-build/js/leaflet.min.js"
   },
   {
@@ -204,16 +204,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/manifest.json"
   },
   {
-    "revision": "e8d477fd4ca5691dffb48ea30a74c730",
+    "revision": "027f3c61002cc28a25a406d36629da29",
     "url": "/capews-build/sidebar.html"
   },
   {
-    "revision": "eac87f3aabe33f269a9f",
-    "url": "/capews-build/static/css/main.3e36047e.chunk.css"
+    "revision": "9373ebb7e1e39794bc2f",
+    "url": "/capews-build/static/css/main.6a9d8801.chunk.css"
   },
   {
-    "revision": "eac87f3aabe33f269a9f",
-    "url": "/capews-build/static/js/main.eac87f3a.chunk.js"
+    "revision": "9373ebb7e1e39794bc2f",
+    "url": "/capews-build/static/js/main.9373ebb7.chunk.js"
   },
   {
     "revision": "b8a687b3529475175813",
