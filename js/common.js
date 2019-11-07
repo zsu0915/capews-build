@@ -12,7 +12,7 @@ $(document).ready(function () {
     // });
     svg()
     menuMobile();
-    checkboxNotAll();
+    // checkboxNotAll();
     // main();
     groupClick();
 });
@@ -225,31 +225,31 @@ function closeAlert() {
     $('.alert-btn-m').show();
 }
 
-// user checkbox全選
-function checkAll(value) {
-    if ($(value).is(':checked'))
-        $(value).closest('.collaspe-item').find('.collaspe-list').find('.form-control').prop('checked', true);
-    else
-        $(value).closest('.collaspe-item').find('.collaspe-list').find('.form-control').prop('checked', false);
-}
+// // user checkbox全選
+// function checkAll(value) {
+//     if ($(value).is(':checked'))
+//         $(value).closest('.collaspe-item').find('.collaspe-list').find('.form-control').prop('checked', true);
+//     else
+//         $(value).closest('.collaspe-item').find('.collaspe-list').find('.form-control').prop('checked', false);
+// }
 
-// user checkbox 取消全選
-function checkboxNotAll(value) {
-    var selectAll = $(value).closest('.collaspe-item').find('.collaspe-header').find('.form-control');
-    var isAll = true;
-    if ($(selectAll).is(':checked')) {
-        $(selectAll).prop('checked', false);
-    } else {
-        $(value).closest('.collaspe-list').find('.form-control').each(function () {
-            if (!$(this).prop('checked')) {
-                isAll = false;
-            }
-        });
-        if (isAll) {
-            $(value).closest('.collaspe-item').find('.collaspe-header').find('.form-control').prop('checked', true);
-        }
-    }
-}
+// // user checkbox 取消全選
+// function checkboxNotAll(value) {
+//     var selectAll = $(value).closest('.collaspe-item').find('.collaspe-header').find('.form-control');
+//     var isAll = true;
+//     if ($(selectAll).is(':checked')) {
+//         $(selectAll).prop('checked', false);
+//     } else {
+//         $(value).closest('.collaspe-list').find('.form-control').each(function () {
+//             if (!$(this).prop('checked')) {
+//                 isAll = false;
+//             }
+//         });
+//         if (isAll) {
+//             $(value).closest('.collaspe-item').find('.collaspe-header').find('.form-control').prop('checked', true);
+//         }
+//     }
+// }
 
 
 // // Map
