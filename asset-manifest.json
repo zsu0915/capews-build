@@ -1,7 +1,7 @@
 {
   "main.css": "/capews-build/static/css/main.6a9d8801.chunk.css",
-  "main.js": "/capews-build/static/js/main.520ee384.chunk.js",
-  "main.js.map": "/capews-build/static/js/main.520ee384.chunk.js.map",
+  "main.js": "/capews-build/static/js/main.838404b2.chunk.js",
+  "main.js.map": "/capews-build/static/js/main.838404b2.chunk.js.map",
   "runtime~main.js": "/capews-build/static/js/runtime~main.b8a687b3.js",
   "runtime~main.js.map": "/capews-build/static/js/runtime~main.b8a687b3.js.map",
   "vendors~main.js": "/capews-build/static/js/vendors~main.3ca81432.chunk.js",
@@ -58,6 +58,6 @@
   "js/leaflet.min.js": "/capews-build/js/leaflet.min.js",
   "logo.svg": "/capews-build/logo.svg",
   "manifest.json": "/capews-build/manifest.json",
-  "precache-manifest.a63c66cf6818caa8e1725ab286c9b717.js": "/capews-build/precache-manifest.a63c66cf6818caa8e1725ab286c9b717.js",
+  "precache-manifest.565da8da553e4bd021014498ca0d1398.js": "/capews-build/precache-manifest.565da8da553e4bd021014498ca0d1398.js",
   "sidebar.html": "/capews-build/sidebar.html"
 }
