@@ -805,7 +805,8 @@ body {
  width:340px
 }
 .map-pop .leaflet-popup-content p {
- margin:0
+ margin:0;
+ font-size: 100%;
 }
 .map-pop .leaflet-popup-content {
  margin:0;
