@@ -14,7 +14,7 @@ $(document).ready(function () {
     menuMobile();
     // checkboxNotAll();
     // main();
-    groupClick();
+    // groupClick();
 });
 
 // svg圖檔
@@ -342,37 +342,37 @@ function closeAlert() {
 //     })
 // }
 
-function groupClick() {
-    $('.leaflet-marker-icon').click(function () {
-        // 開啟手機版map popup
-        if (!$('.caption').hasClass('active')) {
-            $('.caption').addClass('active')
-        }
-        if ($('.caption').hasClass('open')) {
-            $('.caption').removeClass('open')
-        }
+// function groupClick() {
+//     // $('.leaflet-marker-icon').click(function () {
+//     //     // 開啟手機版map popup
+//     //     if (!$('.caption').hasClass('active')) {
+//     //         $('.caption').addClass('active')
+//     //     }
+//     //     if ($('.caption').hasClass('open')) {
+//     //         $('.caption').removeClass('open')
+//     //     }
 
-        // 隱藏告警事件&災害回報
-        $('#alert, #bulletin').collapse('hide');
-    });
+//     //     // 隱藏告警事件&災害回報
+//     //     $('#alert, #bulletin').collapse('hide');
+//     // });
 
 
-    // 點擊其他地方，隱藏手機版map popup
-    $(document).click(function (event) {
-        if (!$(event.target).is(".leaflet-marker-icon") && $(event.target).closest('.caption').length == 0 && !$(event.target).is(".closeCt-btn")) {
-            $('.caption').removeClass('active open');
-        }
-    });
+//     // // 點擊其他地方，隱藏手機版map popup
+//     // $(document).click(function (event) {
+//     //     if (!$(event.target).is(".leaflet-marker-icon") && $(event.target).closest('.caption').length == 0 && !$(event.target).is(".closeCt-btn")) {
+//     //         $('.caption').removeClass('active open');
+//     //     }
+//     // });
 
-    // 展開手機版map popup
-    $('.popup-click').not('.closeCt-btn').click(function (event) {
-        if (!$(event.target).is(".closeCt-btn")) {
-            $('.caption').addClass('open');
-        }
-    })
-}
+//     // // 展開手機版map popup
+//     // $('.popup-click').not('.closeCt-btn').click(function (event) {
+//     //     if (!$(event.target).is(".closeCt-btn")) {
+//     //         $('.caption').addClass('open');
+//     //     }
+//     // })
+// }
 
-// 關閉手機版map popup
-function closeCaption() {
-    $('.caption').removeClass('active open');
-}
+// // 關閉手機版map popup
+// function closeCaption() {
+//     $('.caption').removeClass('active open');
+// }
