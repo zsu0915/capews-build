@@ -168,7 +168,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/img/wind.svg"
   },
   {
-    "revision": "6626e71f1292e520bbd1fd5b0019ddb3",
+    "revision": "e85e10942d1cf1528a9ea9b36d035717",
     "url": "/capews-build/index.html"
   },
   {
@@ -208,12 +208,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/capews-build/sidebar.html"
   },
   {
-    "revision": "eb1e03b6fbbffa4972a8",
-    "url": "/capews-build/static/css/main.c1ea6028.chunk.css"
+    "revision": "58fa7339e2e8aa369746",
+    "url": "/capews-build/static/css/main.bb504882.chunk.css"
   },
   {
-    "revision": "eb1e03b6fbbffa4972a8",
-    "url": "/capews-build/static/js/main.eb1e03b6.chunk.js"
+    "revision": "58fa7339e2e8aa369746",
+    "url": "/capews-build/static/js/main.58fa7339.chunk.js"
   },
   {
     "revision": "b8a687b3529475175813",
