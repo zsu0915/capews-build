@@ -79,58 +79,58 @@ function menuHideAlert() {
     }
 }
 
-// search keyup
-function searchKeyup(value) {
-    var searchIcon = $(value).closest('.input-group').find('.search-hasval');
-    var searchNoval = $(value).closest('.input-group').find('.search-noval');
-    var closeIcon = $(value).closest('.input-group').find('.search-close');
-    var inputAppend = $(value).closest('.input-group').find('.input-group-append');
+// // search keyup
+// function searchKeyup(value) {
+//     var searchIcon = $(value).closest('.input-group').find('.search-hasval');
+//     var searchNoval = $(value).closest('.input-group').find('.search-noval');
+//     var closeIcon = $(value).closest('.input-group').find('.search-close');
+//     var inputAppend = $(value).closest('.input-group').find('.input-group-append');
 
-    if ($(window).width() < 1025) {
-        // PC 搜尋結果& search icon顯示/隱藏
-        if ($(value).val() !== '') {
-            $(searchIcon).hide();
-            $('.search-default').hide();
-            $(closeIcon).show();
-            $('.search-result').show();
-        } else {
-            $(searchIcon).show();
-            $('.search-default').show();
-            $(closeIcon).hide();
-            $('.search-result').hide();
-        }
+//     if ($(window).width() < 1025) {
+//         // PC 搜尋結果& search icon顯示/隱藏
+//         if ($(value).val() !== '') {
+//             $(searchIcon).hide();
+//             $('.search-default').hide();
+//             $(closeIcon).show();
+//             $('.search-result').show();
+//         } else {
+//             $(searchIcon).show();
+//             $('.search-default').show();
+//             $(closeIcon).hide();
+//             $('.search-result').hide();
+//         }
 
-        // mobile 搜尋結果顯示/隱藏
-        if ($(window).width() < 1025) {
-            if ($(value).val() !== '') {
-                $('.search-wrap').addClass('open-resault');
-                $('body').removeClass('sidebar-open');
-            } else {
-                $('.search-wrap').removeClass('open-resault');
-            }
-        }
+//         // mobile 搜尋結果顯示/隱藏
+//         if ($(window).width() < 1025) {
+//             if ($(value).val() !== '') {
+//                 $('.search-wrap').addClass('open-resault');
+//                 $('body').removeClass('sidebar-open');
+//             } else {
+//                 $('.search-wrap').removeClass('open-resault');
+//             }
+//         }
 
-        // clear icon隱藏/顯示
-        if ($(inputAppend).hasClass('hide')) {
-            $(inputAppend).removeClass('hide');
-        }
+//         // clear icon隱藏/顯示
+//         if ($(inputAppend).hasClass('hide')) {
+//             $(inputAppend).removeClass('hide');
+//         }
 
-        closeAlert();
-    } else {
-        if ($(value).val() !== '') {
-            $(closeIcon).removeClass('hide');
-            $(searchIcon).addClass('hide');
-            $('.search-default').hide();
-            $('.search-result').show();
-        } else {
-            $(closeIcon).addClass('hide');
-            $(searchIcon).removeClass('hide');
-            $('.search-default').show();
-            $('.search-result').hide();
-        }
+//         closeAlert();
+//     } else {
+//         if ($(value).val() !== '') {
+//             $(closeIcon).removeClass('hide');
+//             $(searchIcon).addClass('hide');
+//             $('.search-default').hide();
+//             $('.search-result').show();
+//         } else {
+//             $(closeIcon).addClass('hide');
+//             $(searchIcon).removeClass('hide');
+//             $('.search-default').show();
+//             $('.search-result').hide();
+//         }
 
-    }
-}
+//     }
+// }
 
 // search input click
 function searchClick(value) {
